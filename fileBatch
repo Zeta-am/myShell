@@ -1,0 +1,4 @@
+sleep 1
+ls -l --color ..; cat myShell_utils.h ; quit ; echo "provaprova" 
+echo ciaomondo
+

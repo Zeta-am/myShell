@@ -1,0 +1,4 @@
+To execute the program:
+    1. type: 'make'
+    2. type: './myShell [batchFile]' 
+       If you specify the file the shell will be execute in batch mode, interactive otherwise
